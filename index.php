@@ -1,5 +1,6 @@
 <?php
 
-echo "olá mundo";
+echo "teste de conflito";
 
+echo "conflito 2"
 ?>
